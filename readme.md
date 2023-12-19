@@ -2,7 +2,7 @@
 
 ## 1. Introducción a las Expresiones Regulares
    - [¿Qué son y para qué se utilizan?](./temario/01-introduccion/definicion_y_proposito.md)
-   - Sintaxis básica: caracteres, metacaracteres, y literales.
+   - [Sintaxis básica: caracteres, metacaracteres, y literales.](./temario/01-introduccion/sintaxis_basica.md)
    - Herramientas online para practicar (por ejemplo, regex101.com).
 
 ## 2. Caracteres y Clases de Caracteres
