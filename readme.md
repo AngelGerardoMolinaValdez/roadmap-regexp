@@ -1,7 +1,7 @@
 # Ruta de Aprendizaje para Expresiones Regulares 🚀
 
 ## 1. Introducción a las Expresiones Regulares
-   - ¿Qué son y para qué se utilizan?
+   - [¿Qué son y para qué se utilizan?](./temario/01-introduccion/definicion_y_proposito.md)
    - Sintaxis básica: caracteres, metacaracteres, y literales.
    - Herramientas online para practicar (por ejemplo, regex101.com).
 
