@@ -6,9 +6,12 @@
    - [Herramientas online para practicar](./temario/01-introduccion/herramientas.md)
 
 ## 2. Caracteres y Clases de Caracteres
-   - [Uso de caracteres comunes y especiales.](./temario/02-caracteres-y-clases/caracteres-comunes-y-especiales.md)
-   - Clases de caracteres y rangos (por ejemplo, [a-z], [0-9]).
-   - Metacaracteres como `\d`, `\w`, `\s`, y sus contrapartes mayúsculas.
+   - [Caracteres comunes.](./temario/02-caracteres-y-clases/caracteres-comunes-y-especiales.md#caracteres-comunes)
+   - [Caracteres especiales.](./temario/02-caracteres-y-clases/caracteres-comunes-y-especiales.md#caracteres-especiales-o-metacaracteres)
+   - [Clases de caracteres y rangos](./temario/02-caracteres-y-clases/caracteres-comunes-y-especiales.md#clases-de-caracteres-y-rangos)
+   - [Metacaracteres como `\d`, `\w`, `\s`, y sus contrapartes mayúsculas.](./temario/02-caracteres-y-clases/caracteres-comunes-y-especiales.md#secuencias-especiales)
+   - [Uso de caracteres de escape.](./temario/02-caracteres-y-clases/caracteres-comunes-y-especiales.md#uso-de-caracteres-de-escape)
+
 
 ## 3. Cuantiﬁcadores y Grupos
    - Cuantificadores básicos: `*`, `+`, `?`, `{n}`, `{n,}`, `{n,m}`.
