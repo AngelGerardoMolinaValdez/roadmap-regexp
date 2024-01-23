@@ -6,7 +6,7 @@
    - [Herramientas online para practicar](./temario/01-introduccion/herramientas.md)
 
 ## 2. Caracteres y Clases de Caracteres
-   - Uso de caracteres comunes y especiales.
+   - [Uso de caracteres comunes y especiales.](./temario/02-caracteres-y-clases/caracteres-comunes-y-especiales.md)
    - Clases de caracteres y rangos (por ejemplo, [a-z], [0-9]).
    - Metacaracteres como `\d`, `\w`, `\s`, y sus contrapartes mayúsculas.
 
