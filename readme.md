@@ -43,13 +43,13 @@
    - Ejercicios de validación de datos (emails, números telefónicos, etc.).
 
 ## 10. Optimización y Rendimiento
-    - Mejores prácticas para escribir expresiones regulares eficientes.
-    - Herramientas para analizar y optimizar expresiones regulares.
+   - Mejores prácticas para escribir expresiones regulares eficientes.
+   - Herramientas para analizar y optimizar expresiones regulares.
 
 ## 11. Proyectos y Desafíos
-    - Proyectos reales para aplicar conocimientos adquiridos.
-    - Desafíos en plataformas como Exercism, HackerRank, o LeetCode.
+   - Proyectos reales para aplicar conocimientos adquiridos.
+   - Desafíos en plataformas como Exercism, HackerRank, o LeetCode.
 
 ## 12. Recursos Adicionales
-    - Libros, tutoriales en video, y documentación en línea.
-    - Comunidades y foros para soporte y consultas avanzadas.
+   - Libros, tutoriales en video, y documentación en línea.
+   - Comunidades y foros para soporte y consultas avanzadas.
