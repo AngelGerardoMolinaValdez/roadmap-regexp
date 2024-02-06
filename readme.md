@@ -16,8 +16,8 @@
 ## 3. Cuantiﬁcadores y Grupos
    - [Cuantificadores básicos: `*`, `+`, `?`, `{n}`, `{n,}`, `{n,m}`.](./temario/03-cuantificadores-y-grupos/cuantificadores.md)
    - [Cuantificadores codiciosos y perezosos.](./temario/03-cuantificadores-y-grupos/cuantificadores.md#cuantificadores-perezosos-y-codiciosos)
-   - Agrupación de patrones con paréntesis y uso de grupos capturados.
-   - Diferencia entre grupos codiciosos y no codiciosos.
+   - [Agrupación de patrones con paréntesis y uso de grupos capturados.](./temario/03-cuantificadores-y-grupos/grupos.md)
+   - [Diferencia entre grupos codiciosos y no codiciosos.](./temario/03-cuantificadores-y-grupos/grupos.md)
 
 ## 4. Anclas y Límites de Palabras
    - Uso de `^`, `$`, `\b`, `\B` para definir posiciones en lugar de contenido.
