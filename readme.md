@@ -14,7 +14,8 @@
 
 
 ## 3. Cuantiﬁcadores y Grupos
-   - Cuantificadores básicos: `*`, `+`, `?`, `{n}`, `{n,}`, `{n,m}`.
+   - [Cuantificadores básicos: `*`, `+`, `?`, `{n}`, `{n,}`, `{n,m}`.](./temario/03-cuantificadores-y-grupos/cuantificadores.md)
+   - [Cuantificadores codiciosos y perezosos.](./temario/03-cuantificadores-y-grupos/cuantificadores.md#cuantificadores-perezosos-y-codiciosos)
    - Agrupación de patrones con paréntesis y uso de grupos capturados.
    - Diferencia entre grupos codiciosos y no codiciosos.
 
