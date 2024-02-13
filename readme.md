@@ -24,8 +24,8 @@
    - [Ejemplos y ejercicios para entender su aplicación.](./temario/04-anclas-y-limites/anclas-y-limites.md#aplicaciones-prácticas)
 
 ## 5. Caracteres de Escape y Conjuntos
-   - Escapar caracteres especiales usando `\`.
-   - Construir y utilizar conjuntos y subconjuntos.
+   - [Escapar caracteres especiales usando `\`.](./temario/05-escape-y-conjuntos/escape-y-conjuntos.md#caracteres-de-escape)
+   - [Construir y utilizar conjuntos y subconjuntos.](./temario/05-escape-y-conjuntos/escape-y-conjuntos.md#conjuntos-y-subconjuntos)
 
 ## 6. Alternancia y Referencias hacia Atrás
    - Uso del operador `|` para alternancia.
