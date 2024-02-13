@@ -20,8 +20,8 @@
    - [Diferencia entre grupos codiciosos y no codiciosos.](./temario/03-cuantificadores-y-grupos/grupos.md)
 
 ## 4. Anclas y Límites de Palabras
-   - Uso de `^`, `$`, `\b`, `\B` para definir posiciones en lugar de contenido.
-   - Ejemplos y ejercicios para entender su aplicación.
+   - [Uso de `^`, `$`, `\b`, `\B` para definir posiciones en lugar de contenido.](./temario/04-anclas-y-limites/anclas-y-limites.md)
+   - [Ejemplos y ejercicios para entender su aplicación.](./temario/04-anclas-y-limites/anclas-y-limites.md#aplicaciones-prácticas)
 
 ## 5. Caracteres de Escape y Conjuntos
    - Escapar caracteres especiales usando `\`.
